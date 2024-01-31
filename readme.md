@@ -1,7 +1,7 @@
 hi, i'm [Manoj Kumar S](https://github.com/Manojkumar-manu), a passionate Frontend web developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
   
 - 💼 any frontend Issues? do reach, [email](mailto:manojkumarme022@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
